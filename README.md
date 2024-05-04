@@ -1,4 +1,4 @@
-# Project Name
+# Ignis2cm
 
 Transform Project Ignis export to Cardmarket format
 
